@@ -81,7 +81,7 @@ export function HomePage({ onUpdate }) {
             value={inputValue}
             onChange={(e) => setInputValue(e.target.value)}
           />
-          <button type="submit" className="btn-search">Аштв</button>
+          <button type="submit" className="btn-search">Find</button>
         </form>
       </header>
 
